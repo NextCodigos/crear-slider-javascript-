@@ -1,0 +1,21 @@
+body{
+	font-family:Montserrat;
+	margin:0;
+}
+img{
+	width:100%;
+	vertical-align:top;
+}
+#bolitas{
+	display:flex;
+	justify-content:center;
+	background-color:#1263ad;
+}
+.bolita{
+	width:13px;
+	height:13px;
+	border-radius:50%;	
+	background-color:white;
+	margin:8px 10px;
+	cursor:pointer;
+}
